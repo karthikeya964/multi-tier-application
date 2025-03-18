@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: flask
-          image: barathkumar29/flasks
+          image: karthik449/flasks
           ports:
             - containerPort: 5000
           env:
